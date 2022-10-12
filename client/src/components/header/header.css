@@ -39,8 +39,9 @@
 
 .headerButton {
     position: absolute;
-    margin-left: 60px;
-    top: 48%;
+    left: 90%;
+    border-radius: 12px;
+    top: 60%;
 }
 
 .headerImg {
